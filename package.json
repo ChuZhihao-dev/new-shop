@@ -4,6 +4,7 @@
   "description": "",
   "packageManager": "pnpm@10.30.3",
   "scripts": {
+    "dev": "npm run dev:shopify",
     "dev:sass": "sass --watch assets/custom.scss:assets/custom.css --no-source-map",
     "dev:shopify": "shopify theme dev -s https://xujyg8-ip.myshopify.com/"
   },
