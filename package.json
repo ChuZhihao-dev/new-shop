@@ -11,12 +11,12 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tooto-tech/Lumo.git"
+    "url": "git+https://github.com/ChuZhihao-dev/new-shop.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tooto-tech/Lumo/issues"
+    "url": "https://github.com/ChuZhihao-dev/new-shop/issues"
   },
-  "homepage": "https://github.com/tooto-tech/Lumo#readme"
+  "homepage": "https://github.com/ChuZhihao-dev/new-shop#readme"
 }
