@@ -1,0 +1,21 @@
+{
+  "name": "shopify-lumo",
+  "version": "1.0.0",
+  "description": "",
+  "packageManager": "pnpm@10.30.3",
+  "scripts": {
+    "dev:sass": "sass --watch assets/custom.scss:assets/custom.css --no-source-map",
+    "dev:shopify": "shopify theme dev -s https://xujyg8-ip.myshopify.com/"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tooto-tech/Lumo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tooto-tech/Lumo/issues"
+  },
+  "homepage": "https://github.com/tooto-tech/Lumo#readme"
+}
